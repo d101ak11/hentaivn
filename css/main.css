@@ -1,5 +1,17 @@
 *{
     margin: 0;
     padding: 0;
-    font-family:Consolas,Monaco,Andale Mono,Ubuntu Mono,monospace;
+}
+body{
+    max-width: 1903px;
+    background-color: #262626!important;
+    font-family: 'Roboto Mono', monospace;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+li{
+    list-style: none;
+    color: white;
 }
